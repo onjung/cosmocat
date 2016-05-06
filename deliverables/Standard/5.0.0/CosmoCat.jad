@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+MIDlet-Jar-Size: 149322
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: CosmoCat.jar
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-URL-1: CosmoCat-1.cod
+RIM-COD-SHA1-1: 16 c8 3b 55 39 9b ff a6 e4 ca bb 0b 06 25 b5 6b 23 bd 7f 45
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 57160
+RIM-COD-Module-Name: CosmoCat
+MIDlet-Name: CosmoCat
+RIM-COD-Size: 33920
+RIM-COD-Creation-Time: 1297974807
+MIDlet-1: ,icon.png,
+RIM-COD-URL: CosmoCat.cod
+RIM-COD-SHA1: 3d 8e 2d 03 2c ba 3c e4 72 2a 8c f3 35 62 e8 3b aa 01 98 f6
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: BlackBerry Developer
